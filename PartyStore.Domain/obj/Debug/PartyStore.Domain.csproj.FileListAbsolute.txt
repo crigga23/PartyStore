@@ -1,0 +1,5 @@
+C:\CraigsProjects\PartyStore\PartyStore.Domain\bin\Debug\PartyStore.Domain.dll
+C:\CraigsProjects\PartyStore\PartyStore.Domain\bin\Debug\PartyStore.Domain.pdb
+C:\CraigsProjects\PartyStore\PartyStore.Domain\obj\Debug\PartyStore.Domain.csprojResolveAssemblyReference.cache
+C:\CraigsProjects\PartyStore\PartyStore.Domain\obj\Debug\PartyStore.Domain.dll
+C:\CraigsProjects\PartyStore\PartyStore.Domain\obj\Debug\PartyStore.Domain.pdb
